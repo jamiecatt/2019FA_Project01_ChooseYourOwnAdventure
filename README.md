@@ -1,2 +1,0 @@
-# ChooseYourOwnAdventure
-Created with CodeSandbox
